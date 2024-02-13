@@ -1,0 +1,8 @@
+def hello(your_name):
+    print(f'Hello my friend {your_name}, congrat for your package')
+    
+def new_function():
+    print('hello')
+
+def BigSmoke():
+    print("I have two number 9, a number 9 large, large soda")
