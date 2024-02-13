@@ -16,6 +16,8 @@ setup(
     url="",
     license="MIT",
     install_requires=[],
-    packages=find_packages()
+    packages=find_packages(),
+    long_description='This is a long description',
+    long_description_content_type='text/markdown'
 )
 
